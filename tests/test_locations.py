@@ -12,4 +12,5 @@ class TestLocations:
         pass
 
     def test_modify(self):
-        pass
+        print("test pass")
+        assert 1 == 1
