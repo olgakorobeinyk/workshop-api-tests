@@ -1,5 +1,5 @@
 from resource.test_data import *
-from utils.endpoints.locations import Locations
+#from utils.endpoints.locations import Locations
 
 
 class TestLocations:
