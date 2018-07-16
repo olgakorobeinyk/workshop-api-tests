@@ -5,11 +5,11 @@ from resource.test_data import *
 class TestLocations:
     @classmethod
     def setup_class(cls):
-        pass
+        assert 1 == 1
 
     @classmethod
     def teardown_class(cls):
-        pass
+        assert 1 == 1
 
     def test_modify(self):
         print("test pass")
